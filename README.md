@@ -1,14 +1,28 @@
+#Hybrid File System (March 2025 – April 2025)
+This project simulates a custom file system designed to demonstrate core concepts of OS-level file management. It includes logic for file operations such as creation, deletion, reading, and metadata tracking using a JSON-based structure.
 
-# Hybrid File System
+ Features
+Custom file system simulation in Python
 
-**🗓️ Project Dates:** March 2025 – April 2025  
-**⚙️ Tech:** C · simulated disk in memory · basic OS file‑system simulations
+File creation, deletion, and metadata tracking
 
-## Quick Description
+JSON-based metadata structure
 
-This project simulates a very small operating‑system‑style file system that blends two allocation styles:
+Command-line interface for interaction
 
-- A **central FAT table** that links data blocks in chain form (great for small files)  
-- Per‑file **inode structures** (with direct and indirect pointers) for efficient handling of larger files
+Google Drive integration for cloud backup
 
-That makes it easy to see how a system can transition from simple FAT-based files to more scalable inode-based files based on file size.
+ Technologies Used
+Python
+
+JSON
+
+Google Drive API
+
+Operating System file management concepts
+
+ Objective
+The aim was to understand and demonstrate how operating systems manage files internally—handling memory, metadata, and storage logic—through a simplified simulation.
+
+Note
+This project does not implement FAT or inode-based systems directly, but uses simplified logic inspired by those principles to simulate file handling
