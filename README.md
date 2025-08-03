@@ -1,7 +1,7 @@
-#Hybrid File System (March 2025 – April 2025)
+ Hybrid File System (March 2025 – April 2025)
 This project simulates a custom file system designed to demonstrate core concepts of OS-level file management. It includes logic for file operations such as creation, deletion, reading, and metadata tracking using a JSON-based structure.
 
- Features
+Features
 Custom file system simulation in Python
 
 File creation, deletion, and metadata tracking
@@ -12,7 +12,7 @@ Command-line interface for interaction
 
 Google Drive integration for cloud backup
 
- Technologies Used
+Technologies Used
 Python
 
 JSON
@@ -21,7 +21,7 @@ Google Drive API
 
 Operating System file management concepts
 
- Objective
+Objective
 The aim was to understand and demonstrate how operating systems manage files internally—handling memory, metadata, and storage logic—through a simplified simulation.
 
 Note
