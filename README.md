@@ -1,4 +1,4 @@
-: '
+
 🗂 Hybrid File System (March 2025 – April 2025)
 
 This project simulates a custom file system designed to demonstrate core concepts of OS-level file management. 
@@ -24,4 +24,4 @@ and storage logic—through a simplified simulation.
  Note
 This project does not implement FAT or inode-based systems directly, but uses simplified logic inspired by those 
 principles to simulate file handling.
-'
+
